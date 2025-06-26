@@ -5,6 +5,10 @@ Turning the Nintendo Switch 2 into a laptop/clamshell with a leverless fightpad 
 
 <br>
 
+Components are available on [PCBway here](https://www.pcbway.com/project/shareproject/Switch_2_SP_9d588ba1.html)
+
+<br>
+
 | Component | Link |
 | ------------- | -------------
 | PCB (additional components listed on PCB page) | [Flatbox Mini WASD](https://github.com/bobwulff/flatbox_mini_WASD/) |
