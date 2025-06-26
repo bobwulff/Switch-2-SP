@@ -18,5 +18,5 @@ Components are available on [PCBway here](https://www.pcbway.com/project/sharepr
 | Short USB-C cable | [NO LONGER AVAILABLE](https://www.aliexpress.us/item/3256807686096409.html?spm=a2g0o.order_detail.order_detail_item.5.1e45f19ctCp0Bh&gatewayAdapt=glo2usa) |
 | Rubber feet | [Amazon](https://amzn.to/4l2Blbs) |
 
-More info to come. In the mean-time please see YouTube video for details:
+More info to come. In the mean-time please see YouTube video for details: https://youtu.be/s-WCwNPWmi8
 
