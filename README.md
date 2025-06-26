@@ -1,6 +1,8 @@
 # Switch-2-SP
 Turning the Nintendo Switch 2 into a laptop/clamshell with a leverless fightpad as a keyboard
 
+![gamesthumbnail_2](https://github.com/user-attachments/assets/8ce332a6-096e-472f-a8fa-f70f8d435bc1)
+
 <br>
 
 | Component | Link |
